@@ -15,10 +15,10 @@ int main() {
 
 
     //library function of string 
-    string str = "Aditya";
-    string temp = "Raj";
-    str.append(temp);
-    cout << str << endl;
+    // string str = "Aditya";
+    // string temp = "Raj";
+    // str.append(temp);
+    // cout << str << endl;
 
     // cout << "length: " << str.length() << endl;
 
